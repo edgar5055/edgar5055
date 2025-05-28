@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Edgar (aka Ter u tirakal)
+# 👋 Hey there, I’m Edgar
 
 🎯 **iOS Developer** | 🔥 **Swift Wizard** | 🧠 **Logic-Driven Problem Solver**
 
