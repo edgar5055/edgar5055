@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hey there, I’m Edgar (aka Ter u tirakal)
 
-<!--
-**edgar5055/edgar5055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **iOS Developer** | 🔥 **Swift Wizard** | 🧠 **Logic-Driven Problem Solver**
 
-Here are some ideas to get you started:
+Welcome to my digital lair — a place where SwiftUI views animate, Firebase burns bright, and Combine actually makes sense.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🧑‍💻 4+ years of experience in iOS development
+- 🎨 Specializing in **SwiftUI**, **UIKit**, **Combine**, and custom **architectures**
+- 🌍 Built apps with **real-time tracking**, **push notifications**, and **paywalls**
+- 📲 Passionate about building apps that *feel* right
+- 🛠️ Currently exploring backend development & Flutter
+
+---
+
+## 🧠 Tech Stack
+
+```swift
+Languages: Swift, Objective-C, Dart
+Frameworks: SwiftUI, UIKit, Combine, MapKit, CoreLocation, CoreData
+Tools: Firebase, RevenueCat, StoreKit, Realm, Moya, Resolver
+Architecture: MVVM, VIPER, Clean Architecture
+Dev Stuff: Xcode, Git, Figma, Postman, Fastlane
